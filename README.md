@@ -6,7 +6,7 @@ This will save ALL videos, gifs, images and messages from everyone.
 Make sure that:
 - Everyone consents to this
 - You have enough storage for all of that
-- I have no responsibility for what happens to YOUR account.
+- You comply with Discord's Terms of Service and applicable privacy laws
 
 ## How to set it up:
 
@@ -18,8 +18,8 @@ Make sure that:
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
-   cd group-dm-archiver
+   git clone https://github.com/ipecarvalho/Group-Dm-Archiver.git
+   cd Group-Dm-Archiver
    ```
 
 2. **Install required dependencies**
